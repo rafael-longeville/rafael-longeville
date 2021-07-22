@@ -9,13 +9,13 @@
 
 💻 Ma STACK d'intégrateur Web: 
 
--> HTML5 & CSS 3
--> Bootstrap
--> Sass
+- HTML5 & CSS 3
+- Bootstrap
+- Sass
 
 🔥 Je souhaite intervenir sur des projets de développement:
--> Web Frontend : HTML / CSS / JS
--> Backend : MySQL, PHP
+- Web Frontend : HTML / CSS / JS
+- Backend : MySQL, PHP
 
 🚨 RECHERCHE URGENTE D'ALTERNANCE 🚨
 
