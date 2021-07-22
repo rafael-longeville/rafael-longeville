@@ -2,10 +2,7 @@
 
 🎓 Je prépare mon Titre Développeur Web (RNCP - Niveau 5)
 
-📈 Mon parcours:
--> Baccalauréat Géneral (2020-21)
--> Formation en Cours de Développeur Web (BAC +2)
--> Formations OpenclassRoom : HTML, CSS, JavaScript
+
 
 💻 Ma STACK d'intégrateur Web: 
 
@@ -16,6 +13,14 @@
 🔥 Je souhaite intervenir sur des projets de développement:
 - Web Frontend : HTML / CSS / JS
 - Backend : MySQL, PHP
+
+📈 Mon parcours:
+-> Baccalauréat Géneral (2020-21)
+-> Formation en Cours de Développeur Web (BAC +2)
+-> Formations OpenclassRoom : HTML, CSS, JavaScript
+
+
+
 
 🚨 RECHERCHE URGENTE D'ALTERNANCE 🚨
 
