@@ -7,9 +7,11 @@
 -> Formation en Cours de Développeur Web (BAC +2)
 -> Formations OpenclassRoom : HTML, CSS, JavaScript
 
-💻 Mon expérience:
-- Opérateur de saisie pendant 2 mois (Été 2020) / OPTIMIS'ACTION /
-- Opérateur de saisie et listing de dossiers / MGEN
+💻 Ma STACK d'intégrateur Web: 
+
+-> HTML5 & CSS 3
+-> Bootstrap
+-> Sass
 
 🔥 Je souhaite intervenir sur des projets de développement:
 -> Web Frontend : HTML / CSS / JS
