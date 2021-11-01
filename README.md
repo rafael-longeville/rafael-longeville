@@ -1,25 +1,22 @@
-📚 Étudiant bordelais de 19 ans au CESI, passionné d'informatique et de développement avec des ambitions entrepreneuriales.
+�  Alternant bordealais de 19 ans au CESI, passionné d'informatique,de développement et en recherche de nouveaux défis chaque jour !
 
 🎓 Je prépare mon Titre Développeur Web (RNCP - Niveau 5)
 
 
-
-💻 Ma STACK d'intégrateur Web: 
+💻 Ma STACK de développeur Front-End Junior: 
 
 - HTML5 & CSS 3
-- Bootstrap
-- Sass
+- Bootstrap & SASS
+- JS | ReactJS | 
 
 🔥 Je souhaite intervenir sur des projets de développement:
-- Web Frontend : HTML / CSS / JS
-- Backend : MySQL, PHP
+- Web Frontend : HTML / CSS / ReactJS
+- Backend : NodeJS
 
 📈 Mon parcours:
 -> Baccalauréat Géneral (2020-21)
 -> Formation en Cours de Développeur Web (BAC +2)
 -> Formations OpenclassRoom : HTML, CSS, JavaScript
-
-
 
 
 🚨 RECHERCHE URGENTE D'ALTERNANCE 🚨
@@ -30,8 +27,7 @@ Je recherche activement un contrat d'apprentissage pour ma formation :
 
 ⏰ Combien de temps? 24 mois
 
-📍 Où? aux alentours de Bordeaux, de Nantes, de Marseille et Paris
-(autres grandes villes de France également)
+📍 Où? aux alentours de Bordeaux
 
 
 💡 RAPPEL IMPORTANT AUX ENTREPRISES 💡
