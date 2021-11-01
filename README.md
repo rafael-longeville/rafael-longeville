@@ -1,4 +1,4 @@
-�  Alternant bordealais de 19 ans au CESI, passionné d'informatique,de développement et en recherche de nouveaux défis chaque jour !
+�  Alternant bordealais de 19 ans au CESI, passionné d'informatique et de développement, je suis à la recherche de nouveaux défis chaque jour !
 
 🎓 Je prépare mon Titre Développeur Web (RNCP - Niveau 5)
 
