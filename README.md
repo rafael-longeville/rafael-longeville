@@ -19,37 +19,6 @@
 -> Formations OpenclassRoom : HTML, CSS, JavaScript
 
 
-🚨 RECHERCHE URGENTE D'ALTERNANCE 🚨
-
-Je recherche activement un contrat d'apprentissage pour ma formation :
-
-📆 Quand? dès Septembre 2021
-
-⏰ Combien de temps? 24 mois
-
-📍 Où? aux alentours de Bordeaux
-
-
-💡 RAPPEL IMPORTANT AUX ENTREPRISES 💡
-
-Pour toutes signature d'un:
-
--> Contrat d'alternance / Contrat de professionnalisation
-
-vous disposez de :
-
-🚨 d'une aide EXCEPTIONNELLE de 8000 € pour l'embauche d'un alternant 🚨
-
-🚨 d'une exonération de cotisations et contributions sociales des entreprises employant d'un apprenti 🚨
-
-
-⏱ Très actif sur la plateforme, n'hésitez pas à me contacter pour discuter de votre projet, je vous répondrai dans la minute.
-
-Le télétravail ne me dérange pas du tout!
-
-Pour toutes proposition de mission, je vous invite à me contacter sur mon adresse professionnelle:
-
-📩 rafael.longeville.pro@gmail.com
 
 
 <!---
