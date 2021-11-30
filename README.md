@@ -1,17 +1,16 @@
-� Alternant bordealais de 19 ans au CESI, passionné d'informatique et de développement, je suis à la recherche de nouveaux défis chaque jour !
+� Alternant bordelais de 19 ans chez Yalink, passionné d'informatique et de développement, je suis à la recherche de nouveaux défis chaque jour !
 
 🎓 Je prépare mon Titre Développeur Web (RNCP - Niveau 5)
 
-
 💻 Ma STACK de développeur Front-End Junior: 
 
-- HTML5 & CSS 3
-- Bootstrap & SASS
-- JS | ReactJS | 
+- HTML5 & CSS 3 & Bootstrap & SASS
+- JAVASCRIPT
+-  | ReactJS | UI / UX 
 
 🔥 Je souhaite intervenir sur des projets de développement:
 - Web Frontend : HTML / CSS / ReactJS
-- Backend : NodeJS
+- Backend : NodeJS / Python
 
 📈 Mon parcours:
 -> Baccalauréat Géneral (2020-21)
