@@ -8,9 +8,10 @@
 - JAVASCRIPT
 -  | ReactJS | UI / UX 
 
-🔥 Je souhaite intervenir sur des projets de développement:
+🔥 J'interviens sur un projet:
 - Web Frontend : HTML / CSS / ReactJS
-- Backend : NodeJS / Python
+- Backend : NodeJS / Python / 
+- Infra : Docker 
 
 📈 Mon parcours:
 -> Baccalauréat Géneral (2020-21)
