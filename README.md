@@ -4,14 +4,15 @@
 
 💻 Ma STACK de développeur Front-End Junior: 
 
-- HTML5 & CSS 3 & Bootstrap & SASS
-- JAVASCRIPT
--  | ReactJS | UI / UX 
+- HTML5 / CSS 3 / Framework Bootstrap & SASS
+- JavaScript
+-  ReactJS | Chakra UI
+-   UI / UX 
 
 🔥 J'interviens sur un projet:
-- Web Frontend : HTML / CSS / ReactJS
-- Backend : NodeJS / Python / 
-- Infra : Docker 
+- Web Frontend : ReactJS / Chakra UI
+- Backend : Python / FLASK
+- Infra : Docker / Netlify
 
 📈 Mon parcours:
 -> Baccalauréat Géneral (2020-21)
