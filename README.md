@@ -1,18 +1,20 @@
-[![My Skills](https://skillicons.dev/icons?i=js,react,python,mysql,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,python,nodejs,mysql,postgresql,docker)](https://skillicons.dev)
 
-� Alternant bordelais de 19 ans chez Yalink, passionné d'informatique et de développement, je suis à la recherche de nouveaux défis chaque jour !
+### Alternant bordelais de 20 ans chez Yalink, passionné d'informatique et de développement,<br>je suis à la recherche de nouveaux défis chaque jour !
 
-🎓 Je prépare mon Titre Développeur Web (RNCP - Niveau 5)
 
-🔥 J'interviens sur un projet:
-- Web Frontend : ReactJS / Chakra UI
-- Backend : Python / PostgreSQL
-- Infrastructure : Docker / Netlify / Heroku
 
-📈 Mon parcours:
--> Baccalauréat Géneral (2020-21)
--> Formation en Cours de Développeur Web (BAC +2)
--> Formations OpenclassRoom : HTML, CSS, JavaScript
+### 🔥 J'interviens sur un projet:
+#### - Web Frontend : ReactJS / Chakra UI
+#### - Backend : Python / PostgreSQL
+#### - Infrastructure : Docker / Netlify / Heroku
+
+### 📈 Mon parcours:
+#### - Baccalauréat Géneral (2020-21)
+#### - Formation en Cours de Développeur Web (BAC +2)
+#### - Formations OpenclassRoom : HTML, CSS, JavaScript
+#### 🎓 Je prépare mon Titre Développeur Web (RNCP - Niveau 5)
+<br>
 
 
 [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-longeville&show_icons=true&theme=radical)](https://github.com/rafael-longeville/github-readme-stats)
