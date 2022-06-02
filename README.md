@@ -9,7 +9,7 @@
 
 
 
-### 🔥 Actuellement en alternance chez [Yalink](https://www.yalink.fr), j'interviens sur un projet:
+### 🔥 Actuellement en alternance chez [Yalink](https://yalink.fr), j'interviens sur un projet:
 
 #### - Web Frontend : ReactJS / Chakra UI
 #### - Backend : Python / PostgreSQL
