@@ -1,25 +1,18 @@
+[![My Skills](https://skillicons.dev/icons?i=js,react,python,mysql,html,css)](https://skillicons.dev)
+
 � Alternant bordelais de 19 ans chez Yalink, passionné d'informatique et de développement, je suis à la recherche de nouveaux défis chaque jour !
 
 🎓 Je prépare mon Titre Développeur Web (RNCP - Niveau 5)
 
-💻 Ma STACK de développeur Front-End Junior: 
-
-- HTML5 / CSS 3 / Framework Bootstrap & SASS
-- JavaScript
--  ReactJS | Chakra UI
--   UI / UX 
-
 🔥 J'interviens sur un projet:
 - Web Frontend : ReactJS / Chakra UI
-- Backend : Python / FLASK
-- Infra : Docker / Netlify
+- Backend : Python / PostgreSQL
+- Infrastructure : Docker / Netlify / Heroku
 
 📈 Mon parcours:
 -> Baccalauréat Géneral (2020-21)
 -> Formation en Cours de Développeur Web (BAC +2)
 -> Formations OpenclassRoom : HTML, CSS, JavaScript
-
-
 
 
 <!---
