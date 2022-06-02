@@ -2,9 +2,15 @@
 
 ### Alternant bordelais de 20 ans chez Yalink, passionné d'informatique et de développement,<br>je suis à la recherche de nouveaux défis chaque jour !
 
+### Pour toute demande de collaboration ou de devis pour votre projet informatique,<br> contactez moi sur Linkedin : 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafael-longeville/)
 
 
-### 🔥 J'interviens sur un projet:
+
+
+
+### 🔥 Actuellement en alternance chez [Yalink](https://www.yalink.fr), 'interviens sur un projet:
+
 #### - Web Frontend : ReactJS / Chakra UI
 #### - Backend : Python / PostgreSQL
 #### - Infrastructure : Docker / Netlify / Heroku
