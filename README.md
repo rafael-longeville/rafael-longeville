@@ -2,30 +2,39 @@
 
 ### Alternant bordelais de 20 ans chez Yalink, passionné d'informatique et de développement,<br>je suis à la recherche de nouveaux défis chaque jour !
 
-### Pour toute demande de collaboration ou de devis pour votre projet informatique,<br> contactez moi sur Linkedin : 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafael-longeville/)
-
-
-
-
+### Pour toute demande de collaboration ou de devis pour votre projet informatique,<br> contactez moi sur Linkedin :
 
 ### 🔥 Actuellement en alternance chez [Yalink](https://yalink.fr), j'interviens sur un projet:
 
 #### - Web Frontend : ReactJS / Chakra UI
+
 #### - Backend : Python / PostgreSQL
+
 #### - Infrastructure : Docker / Netlify / Heroku
 
+## Mes compétences | Languages | Frameworks
+
+| Frontend                                                                    |                                   Backend                                    | Infrastructure |
+| --------------------------------------------------------------------------- | :--------------------------------------------------------------------------: | ------------: |
+| [![My Skills](https://skillicons.dev/icons?i=react](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=python](https://skillicons.dev) |
+
+## Github Stats :
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafael-longeville/)
+
 ### 📈 Mon parcours:
+
 #### - Baccalauréat Géneral (2020-21)
+
 #### - Formation en Cours de Développeur Web (BAC +2)
+
 #### - Formations OpenclassRoom : HTML, CSS, JavaScript
+
 #### 🎓 Je prépare mon Titre Développeur Web (RNCP - Niveau 5)
+
 <br>
 
-
 [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-longeville&show_icons=true&theme=radical)](https://github.com/rafael-longeville/github-readme-stats)
-
-
 
 <!---
 rafael-longeville/rafael-longeville is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
