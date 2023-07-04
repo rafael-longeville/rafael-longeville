@@ -1,25 +1,17 @@
 ## About Me
 
-#### Alternant bordelais de 20 ans chez Yalink, passionné d'informatique et de développement,<br>je suis à la recherche de nouveaux défis chaque jour !
+#### Co-fondateur chez Devtek Solutions, passionné d'informatique et de développement,<br>je suis à la recherche de nouveaux défis chaque jour !
 
 #### Pour toute demande de collaboration ou de devis pour votre projet informatique,<br> contactez moi sur Linkedin :
 
 ### 🔥 Actuellement en alternance chez [Yalink](https://yalink.fr), j'interviens sur un projet:
 
-#### - Web Frontend : ReactJS / Chakra UI
+#### - Web Frontend : Next JS / React JS
 
-#### - Backend : Python / PostgreSQL
+#### - Backend : GraphQL / Hasura / Node JS / Python / PostgreSQL
 
-#### - Infrastructure : Docker / Netlify / Heroku
+#### - Infrastructure : Docker / Vercel / Netlify / Heroku
 
-## Mes compétences | Languages | Frameworks
-
-
-
-| Frontend      | Back-end     | Infra |
-| ------------- |:-------------:| -----:|
-| <img src="./assets/react.png"  width="50" height="50"/> | <img src="./assets/python.png"  width="50" height="50"/> | <img src="./assets/docker.png"  width="50" height="50"/> |
-| <img src="./assets/js.png"  width="50" height="50"/> | <img src="./assets/nodejs.png"  width="50" height="50"/> | <img src="./assets/heroku.png"  width="50" height="50"/> |
 
 ## Github Stats :
 
