@@ -1,38 +1,49 @@
+# 👋 Hello, I'm Rafael Longeville  
+### Développeur React & Node.js <> Freelance
+
 ## About Me
 
-#### Co-fondateur chez Devtek Solutions, passionné d'informatique et de développement,<br>je suis à la recherche de nouveaux défis chaque jour !
+#### Co-fondateur chez [Devtek Solutions](https://devtek-solutions.com), passionné par l'informatique et le développement,<br>je suis à la recherche de nouveaux défis chaque jour !
 
-#### Pour toute demande de collaboration ou de devis pour votre projet informatique,<br> contactez moi sur Linkedin :
+#### Depuis plus de 3 ans, j'accompagne des entreprises, de la startup à la PME, pour concevoir et déployer des applications web modernes et performantes. 
 
-### 🔥 Actuellement en alternance chez [Yalink](https://yalink.fr), j'interviens sur un projet:
+#### Mon expertise repose sur :
+- 🏗 Développement Frontend : React.js / Next.js
+- ⚙️ Développement Backend : Node.js / Python (Flask, FastAPI) / GraphQL / Hasura
+- 🚀 Infrastructure et Déploiement : Docker / Vercel / Netlify / Heroku
 
-#### - Web Frontend : Next JS / React JS
+#### Mon objectif : Vous aider à créer des applications fiables, évolutives et adaptées à vos besoins spécifiques.
 
-#### - Backend : GraphQL / Hasura / Node JS / Python / PostgreSQL
+## 🚀 Expériences récentes
 
-#### - Infrastructure : Docker / Vercel / Netlify / Heroku
+### 📌 Co-founder | Développeur React & Node.js - [Devtek Solutions](https://devtek-solutions.com) (2023 - Présent)
+> Développement d'outils internes et automatisation des tâches répétitives pour les entreprises.
 
+### 📌 Développeur React.js & Node.js | Optimis'Action (2023 - 2024)
+> Conception et développement d'une application web type CRM pour l'accompagnement des entreprises.
 
-## Github Stats :
+### 📌 Développeur React.js & Node.js | Dums (2023 - 2024)
+> Développement du MVP d'une application de loterie en ligne avec Next.js et intégration de paiements sécurisés.
+
+### 📌 Développeur React.js & Node.js | Yalink (2021 - 2023)
+> Participation au développement de la plateforme Yalink connectant freelances et entreprises du BTP.
+
+## 📈 Github Stats :
 
 [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-longeville&show_icons=true&theme=radical)](https://github.com/rafael-longeville/github-readme-stats)
 
-### 📈 Mon parcours:
+## 🎓 Mon parcours:
 
-#### - Baccalauréat Géneral (2020-21)
+- 🎓 Baccalauréat Général (2020-2021)
+- 📚 Formation en Développement Web (BAC+2)
+- 📖 Certifications OpenClassRoom : HTML, CSS, JavaScript
+- 🎯 En cours : Titre Développeur Web (RNCP - Niveau 5)
 
-#### - Formation en Cours de Développeur Web (BAC +2)
-
-#### - Formations OpenclassRoom : HTML, CSS, JavaScript
-
-#### 🎓 Je prépare mon Titre Développeur Web (RNCP - Niveau 5)
-
-<br>
-
-## Contactez moi
+## 📬 Contactez-moi
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafael-longeville/)
 
+---
 <!---
 rafael-longeville/rafael-longeville is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
